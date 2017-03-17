@@ -1,3 +1,5 @@
 
 
-But from now on this is about my dog tessi!
+But from now on this is about 
+my dog Tessi!
+She likes snow very much.
