@@ -1,5 +1,7 @@
 
 
+graphical interface added
+
 voucher colored
 
 added synchronous states
