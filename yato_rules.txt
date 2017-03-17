@@ -1,4 +1,12 @@
 
+ASSERTS replaced 
+
+opta  vs  goj
+
+OPT0010 rule 1.0 & 2.0 rdy.
+
+Started with OPT 0010 
+
 UFZ combinations added
 
 UFZ empty empty refactored
