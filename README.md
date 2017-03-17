@@ -37,6 +37,8 @@ in particular cats and dogs.
 You must know cats and dogs are the very most
 "treue freunde"  a human can think of.
 
+All about my dog:-)
+
 
 Another friend is Andrea:)
 
@@ -46,6 +48,8 @@ She likes snow very much.
 
 But there are other dogs too and
 her friend is called Kruemel.
+
+This will be our first shipment to customer (version 7)
 
 
 
