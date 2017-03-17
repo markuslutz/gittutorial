@@ -1,4 +1,6 @@
 
+Change the weighing behavior for ADF
+
 Added some new wf-transitions for printing
 
 Standard workflow implemented. No anystates
