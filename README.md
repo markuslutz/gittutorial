@@ -1,4 +1,7 @@
 
+Now we are entering the develop -> test -> release cycle!
+
+
 It´s time to think about when those "creatures" came into
 our lifes.....
 30.000 years ago humans and wolfes were forgeing a bond for life!
