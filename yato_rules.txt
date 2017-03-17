@@ -1,4 +1,6 @@
 
+Started with OPT 0010 
+
 UFZ combinations added
 
 UFZ empty empty refactored
