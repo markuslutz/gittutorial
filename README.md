@@ -38,3 +38,5 @@ workflow goes to the end from now on.
 transition any-any added
 
 hahog comm added.
+
+open barrier
