@@ -1,4 +1,7 @@
 
+logging improved.
+
+graphical interface added
 
 voucher colored
 
