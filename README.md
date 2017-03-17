@@ -38,6 +38,17 @@ You must know cats and dogs are the very most
 "treue freunde"  a human can think of.
 
 
+Another friend is Andrea:)
+
+But from now on this is about 
+my dog Tessi!
+She likes snow very much.
+
+But there are other dogs too and
+her friend is called Kruemel.
+
+
+
 local change before pull
 ========================================================================
 workflow goes to the end from now on.
