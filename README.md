@@ -1,11 +1,5 @@
 
 
-last change before split
----------------------------------------------------------------------------------------------
-added rule 1.1 and 2.1 and test scenarios
-
-and yato stuff will be added on top	
-////////////////////////////////////////////////////////////
 
 Change the weighing behavior for ADF
 
@@ -39,12 +33,3 @@ You must know cats and dogs are the very most
 "treue freunde"  a human can think of.
 
 
-local change before pull
-========================================================================
-workflow goes to the end from now on.
-
-transition any-any added
-
-hahog comm added.
-
-open barrier
