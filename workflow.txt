@@ -1,4 +1,6 @@
 
+Workflow is now threadsafe...
+
 New edges.
 New nodes.
 
