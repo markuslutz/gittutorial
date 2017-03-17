@@ -1,4 +1,6 @@
 
+ASSERTS replaced 
+
 opta  vs  goj
 
 OPT0010 rule 1.0 & 2.0 rdy.
