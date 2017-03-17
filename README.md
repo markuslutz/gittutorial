@@ -1,4 +1,6 @@
 
+Added some new wf-transitions for printing
+
 Standard workflow implemented. No anystates
 
 Now we are entering the develop -> test -> release cycle!
