@@ -1,4 +1,7 @@
 
 
+voucher colored
+
+added synchronous states
 
 inital wf
