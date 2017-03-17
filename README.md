@@ -1,11 +1,5 @@
 
 
-last change before split
----------------------------------------------------------------------------------------------
-added rule 1.1 and 2.1 and test scenarios
-
-and yato stuff will be added on top	
-////////////////////////////////////////////////////////////
 
 Change the weighing behavior for ADF
 
@@ -28,7 +22,8 @@ Now team added some base methods
 
 It´s time to think about when those "creatures" came into
 our lifes.....
-30.000 years ago humans and wolfes were forgeing a bond for life!
+35.000 years ago human-erectus and wolfe-alike dogs were 
+forgeing a bond for life!
 
 So this will now start the main dev about
 Animals
@@ -53,12 +48,3 @@ This will be our first shipment to customer (version 7)
 
 
 
-local change before pull
-========================================================================
-workflow goes to the end from now on.
-
-transition any-any added
-
-hahog comm added.
-
-open barrier
