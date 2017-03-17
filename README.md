@@ -1,6 +1,8 @@
 
-Now we are entering the develop -> test -> release cycle!
+yato model added.
 
+
+Now we are entering the develop -> test -> release cycle!
 
 Now team added some base methods
 
