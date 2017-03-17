@@ -1,4 +1,7 @@
 
+
+New nodes.
+
 logging improved.
 
 graphical interface added
