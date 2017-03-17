@@ -1,6 +1,12 @@
 
-Now we are entering the develop -> test -> release cycle!
+modified data model and started with REGIOV
 
+entered rule 1.0 and 2.0 FERNV
+yato model added.
+
+
+
+Now we are entering the develop -> test -> release cycle!
 
 Now team added some base methods
 
