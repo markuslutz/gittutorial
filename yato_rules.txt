@@ -1,4 +1,5 @@
 
+exception handling added
 js performance increaseD
 RULES are now available in js
 
