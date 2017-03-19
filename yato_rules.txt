@@ -1,4 +1,11 @@
 
+js performance increaseD
+RULES are now available in js
+
+Javascript added
+
+New rule engine belongs here
+
 Rules about semitrailer added.
 
 assert reinforced:)
