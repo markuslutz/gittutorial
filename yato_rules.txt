@@ -1,4 +1,10 @@
 
+
+letz have a intro on monday
+
+here is the right place: nadine joined
+//////
+
 exception handling added
 js performance increaseD
 RULES are now available in js
